@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "my stream",
+      "userId": "104960290949504487149",
+      "id": 1
+    },
+    {
+      "title": "outra stream",
+      "description": "minha melhor stream",
+      "userId": "104960290949504487149",
+      "id": 2
+    }
+  ]
+}
